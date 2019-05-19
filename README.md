@@ -14,7 +14,7 @@ This function calculates the speed of the person and returns 2D numpy array.
 import assignment1.py as ap
 ap.FUNCTION_NAME(ARGUMENTS)
 
-### OR
+### or
 juptyer test.ipynb
 
 ## Example
