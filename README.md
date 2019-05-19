@@ -1,4 +1,4 @@
-# Human-identification-Image-sequnces
+# Human-identification-Image-sequences
 Identifying Human objects from set of frames using frame differencing, connecting components, thresholding, and bounding boxes.  
 ## Test File
 Juptyer Notebook - test.ipynb
