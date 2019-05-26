@@ -11,7 +11,7 @@ This function checks if a person is present in the frame or not.
 ### person_speed :
 This function calculates the speed of the person and returns 2D numpy array.
 ## Running Instructions
-import assignment1.py as ap
+import assignment1.py as ap</br>
 ap.FUNCTION_NAME(ARGUMENTS)
 
 ### or
